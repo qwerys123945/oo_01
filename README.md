@@ -33,4 +33,4 @@
 
 :snowman:
 
-![nkust](nkust.png "高科大")
+![nkust](nkust.png "高科大 Logo")
