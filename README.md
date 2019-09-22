@@ -35,4 +35,4 @@
 
 ![nkust](nkust.png "高科大 Logo")
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[![How哥宇宙](http://img.youtube.com/vi/Kh5pPTTpji4/0.jpg)](https://www.youtube.com/watch?v=Kh5pPTTpji4)
