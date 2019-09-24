@@ -28,7 +28,7 @@
 2.系統能在10秒內顯示出使用者所點選的資訊
 ```
 
-
+![使用案例圖](UseCaseDiagram1.jpg "使用案例圖")
 
 
 [高科大](https://www.nkust.edu.tw/)
