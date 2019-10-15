@@ -83,6 +83,9 @@
 遊客循序圖
 ![遊客循序圖](遊客循序圖.jpg "遊客循序圖")
 
+### 強韌圖
+![強韌圖](強韌圖1.jpg "強韌圖")
+
 [高科大](https://www.nkust.edu.tw/)
 
 <https://webap.nkust.edu.tw/nkust/f_index.html>
